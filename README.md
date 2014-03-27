@@ -1,4 +1,4 @@
-criteo-internship-exercise
+UIKit dynamics example - ball & collisions
 ==========================
 
 Dynamic scene v1
