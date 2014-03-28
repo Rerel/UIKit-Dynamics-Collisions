@@ -25,10 +25,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-}
-
-- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
     
     // Ball geometry & color
     CGRect ballFrame = CGRectMake(100.0, 100.0, 100.0, 100.0);
